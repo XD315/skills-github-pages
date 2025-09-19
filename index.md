@@ -7,3 +7,4 @@ date: 2025-09-19
 ## Ý nghĩa
 * Ghi lại kiến thức đã học
 * Nâng cao trình độ
+## Hẹn gặp lại lần sau
